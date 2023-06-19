@@ -227,7 +227,7 @@ html{
 }
 /*card*/
 .card {
-    margin-left: 80px;
+    margin-left: 50px;
     background: #fff;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
@@ -255,7 +255,7 @@ h2 {
 
 
 .card1 {
-    margin-left: 500px;
+    margin-left: 470px;
     margin-top: -215px;
     margin-bottom: 50px;
     background: #fff;
@@ -288,7 +288,7 @@ h2 {
 
 
 .card2 {
-    margin-left: 900px;
+    margin-left: 870px;
     margin-top: -260px;
     margin-bottom: 40px;
     width: 300px;
